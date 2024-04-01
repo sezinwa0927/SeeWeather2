@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: circleci/python:3.8
 
-    working_directory: /SeeWeather2
+    working_directory: /github
 
     steps:
       - checkout
